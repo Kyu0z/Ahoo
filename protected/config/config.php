@@ -1,20 +1,20 @@
 <?php
 return array(
     'app.name'=>'Video Chat',
-    'app.timezone' => 'Europe/Berlin',// http://www.php.net/manual/en/timezones.php
+    'app.timezone' => 'Asia/Ho_Chi_Minh',// http://www.php.net/manual/en/timezones.php
     'app.default_language' => 'en',
-    'app.host' => 'https://opentok.codecanyon',
+    'app.host' => 'https://ahoo.herokuapp.com',
     'app.base_url' => '/',
     'app.encryption_key' => 'uNFMVrvZ7pFKKCIwcU97HXAbUIvGm17i',
     'app.validation_key' => 'Jd3qhzghLY2ro7JHQfGgWiTZ6ph3osvU',
     'app.cookie_validation' => true,
-    'app.command_key'=>'',
+    'app.command_key'=>'my-secret-key',
 
     // Database settings
-    'db.host' => 'localhost',
-    'db.dbname' => 'videochat',
-    'db.username' => 'homestead',
-    'db.password' => 'secret',
+    'db.host' => 'ao9moanwus0rjiex.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+    'db.dbname' => 'j9abe1hg3ucjybq4',
+    'db.username' => 'sgkm5kgpnkqwxsmu',
+    'db.password' => 'bw0ik3sfep4xdtzb',
     'db.port' => 3306,
 
     // Cookie settings
@@ -25,8 +25,8 @@ return array(
     'template.head' => '',
 
     // Vonage credentials
-    'vonage.key'=>'',
-    'vonage.secret'=>'',
+    'vonage.key'=>'47665861',
+    'vonage.secret'=>'3eb3acd96176ac916979d8e2cbe974dd9e00254e',
 
     // Params
     'param.token_time' => time() + 60 * 60 * 1,
