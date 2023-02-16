@@ -151,12 +151,12 @@ if(!$phpPath) {
 ?>
 <html lang="en">
 <head>
-<title>Video Chat | Command Builder</title>
+<title>AhooTv | Command Builder</title>
 </head>
 <body>
 <p>
     Below you can find a list of cron jobs you need to setup.
-    <a href="https://docs.php8developer.com/video-chat/#/installation?id=cron-job" target="_blank">Read here</a> how you can do it.
+    <a href="#" target="_blank">Read here</a> how you can do it.
 </p>
 <ul>
     <?php foreach ($cron_jobs as $cron_job): ?>

@@ -244,7 +244,7 @@ foreach($requirements as $i=>$requirement) {
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="en"/>
-    <title>Video Chat | Requirements</title>
+    <title>AhooTV | Requirements</title>
     <style type="text/css">
         body
         {
@@ -345,23 +345,23 @@ foreach($requirements as $i=>$requirement) {
 <div id="page">
 
     <div id="header">
-        <h1>Video Chat</h1>
+        <h1>AhooTV</h1>
     </div><!-- header-->
 
     <div id="content">
         <h2>Description</h2>
         <p>
             This script checks if your server configuration meets the requirements
-            for running <a href="http://video-chat.php8developer.com">Video Chat</a>.
+            for running <a href="#">AhooTV</a>.
             It checks if the server is running the right version of PHP,
             if appropriate PHP extensions have been loaded, and if php.ini file settings are correct.
         </p>
         <h2>Conclusion</h2>
         <p>
             <?php if($result>0): ?>
-                Congratulations! Your server configuration satisfies minimum requirements by Video Chat.
+                Congratulations! Your server configuration satisfies minimum requirements by AhooTV.
             <?php else: ?>
-                Unfortunately your server configuration does not satisfy the requirements by Video Chat.
+                Unfortunately your server configuration does not satisfy the requirements by AhooTV.
             <?php endif; ?>
         </p>
 

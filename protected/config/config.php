@@ -1,8 +1,8 @@
 <?php
 return array(
-    'app.name'=>'Video Chat',
+    'app.name'=>'AhooTV',
     'app.timezone' => 'Asia/Ho_Chi_Minh',// http://www.php.net/manual/en/timezones.php
-    'app.default_language' => 'en',
+    'app.default_language' => 'vi',
     'app.host' => 'https://ahoo.herokuapp.com',
     'app.base_url' => '/',
     'app.encryption_key' => 'uNFMVrvZ7pFKKCIwcU97HXAbUIvGm17i',
@@ -40,5 +40,5 @@ return array(
         20	=> 15 * 1000,
         30	=> 30 * 1000,
     ),
-    'param.developed_by'=>'<a href="http://php8developer.com">PHP8 Developer</a>',
+    'param.developed_by'=>'<a href="#">Ahoo Developer</a>',
 );

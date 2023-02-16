@@ -9,5 +9,5 @@
 </div>
 <?php endforeach; ?>
 <?php else: ?>
-<?php echo Yii::t("app", "You haven't any notifications") ?>
+<?php echo Yii::t("app", "Bạn không có thông báo nào cả..") ?>
 <?php endif; ?>

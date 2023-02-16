@@ -18,7 +18,7 @@ return array(
 	"You started video publishing" => "Bạn bắt đầu cuộc gọi video",
 	"You finished video publishing" => "Bạn tham gia cuộc gọi video",
 	"Your browser doesn't support video streaming" => "Trình duyệt của bạn không hỗ trợ truyền phát video",
-	"Submit" => "Submit",
+	"Submit" => "Gửi",
 	"Online Video Chat with {name}" => "Trò chuyện video trực tuyến với {name}",
 	"Advice - no user online" => "<strong>Không có người dùng khác trực tuyến?</strong> Đăng nhập bằng trình duyệt khác",
 	"Advice - webcam access" => "<strong>NOTE!</strong> Sau khi tham gia phòng trò chuyện, hãy đảm bảo trình duyệt có thể truy cập webcam của bạn",
