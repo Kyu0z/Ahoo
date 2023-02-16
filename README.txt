@@ -1,3 +1,3 @@
-<p>
-Click here to visit <a href="https://ahoo.herokuapp.com/">Ahoo Message and Video Call</a>
-</p>
+<span>Click here to visit -> </span> <a href="https://ahoo.herokuapp.com/" target="_blank"><strong>Ahoo Message and Video Call</strong></a>
+<br/>
+<br/>
