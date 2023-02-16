@@ -33,7 +33,7 @@ return array(
 	"Start video chat with {Name}" => "Start video chat with {Name}",
 	"{Name} sent you an invite. Click {Here} to join" => "{Name} sent you an invite. Click {Here} to join",
 	"here" => "here",
-	"Please sign in" => "Please sign in",
+	"Please sign in" => "Đăng nhập",
 	"CAPTCHA" => "CAPTCHA",
 	"Publish video" => "Publish video",
 	"Unpublish video" => "Unpublish video",
